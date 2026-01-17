@@ -27,15 +27,26 @@ I am a seasoned developer with over **10 years of experience** in building compr
 
 - **[react-native-keyboard-aware-view](https://github.com/VansonLeung/react-native-keyboard-aware-view)**: A smart React Native component that handles keyboard interactions gracefully. (⭐ 80+)
 - **[react-native-jelly-side-menu](https://github.com/VansonLeung/react-native-jelly-side-menu)**: A unique, jelly-like animation side menu for React Native apps. (⭐ 70+)
+- **[flutter_llama_cpp_dart_lib](https://github.com/VansonLeung/flutter_llama_cpp_dart_lib)**: A Dart interface to directly run Llama.cpp models, enabling offline LLMs on mobile.
+- **[TPBox](https://github.com/VansonLeung/TPBox)**: A functional, layout-by-properties box view libraries for efficient UI building.
+- **[anymcp-chat-server](https://github.com/VansonLeung/anymcp-chat-server)**: Implementation of the Model Context Protocol (MCP) for chat interfaces.
+
+## 🤖 AI, LLM & RAG Innovations
+
+- **[interactive_sqlite_rag_mcp](https://github.com/VansonLeung/interactive_sqlite_rag_mcp)**: An advanced interactive RAG system using SQLite and MCP for context-aware responses.
+- **[simple-digital-human](https://github.com/VansonLeung/simple-digital-human)**: Experiments with real-time digital human interactions driven by AI.
+- **[mlx-openai-api-server](https://github.com/VansonLeung/mlx-openai-api-server)**: A server implementation to run MLX models on Apple Silicon with an OpenAI-compatible API.
+- **[py_llm_benchmark](https://github.com/VansonLeung/py_llm_benchmark)**: Benchmarking tools for evaluating various Large Language Models.
+- **[Local RAG Suite](https://github.com/VansonLeung/local-rag-endpoint-node)**: A collection of Node.js and Python tools for building offline-first Retrieval-Augmented Generation systems.
+
+## 📱 Mobile, Tools & Creative Dev
+
 - **[SwiftUI-Toast](https://github.com/VansonLeung/SwiftUI-Toast)**: An Android-style Toast notification implementation for iOS SwiftUI.
 - **[Flutter-DebugFrameSize](https://github.com/VansonLeung/Flutter-DebugFrameSize)**: A utility for pixel-perfect UI debugging in Flutter.
-
-## 🔬 Recent R&D & AI Explorations
-
-- **[simple-digital-human](https://github.com/VansonLeung/simple-digital-human)**: Experiments with digital human interactions using AI.
+- **[wakatime-osx-menu](https://github.com/VansonLeung/wakatime-osx-menu)**: A convenient macOS menu bar utility for identifying your WakaTime tracking status.
 - **[erhu_score_editor](https://github.com/VansonLeung/erhu_score_editor)**: A specialized web-based score editor for the Erhu (Chinese two-stringed fiddle).
-- **[py_llm_benchmark](https://github.com/VansonLeung/py_llm_benchmark)**: Benchmarking tools for various Large Language Models.
-- **[DeepSeek RAG Tools](https://github.com/VansonLeung/poc-py-neo4j-graphrag)**: Explorations into GraphRAG and advanced retrieval methods.
+- **[Godot Experiments](https://github.com/VansonLeung/Godot4Tests)**: Research into Godot 4 fluid simulations and 2D physics.
+- **[Unity IoT Control](https://github.com/VansonLeung/fs_unity_minicar_control)**: Connecting Unity games with physical hardware controls (Mini Car).
 
 ---
 
